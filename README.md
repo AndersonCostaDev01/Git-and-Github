@@ -102,4 +102,10 @@
 
 > **Dica:** Sempre escreva mensagens de commit claras e objetivas! Elas ajudam você e sua equipe a entenderem rapidamente o que foi alterado.
 
-<!-- Gia pa tirar duvidas futuras -->
+## <!-- Guia pa tirar duvidas futuras -->
+
+# atividade do modulo
+
+## realização
+
+feito a implementação dos arquivos da atividade anterior para comparação no pull
